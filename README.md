@@ -2,6 +2,8 @@
 
 Spotilist is a React application that enables users to customize their music preferences and receive personalized playlists based on their favorite genres and artists. The app integrates with the Spotify API to fetch music-related data.
 
+*UI is inspired from SPotify
+
 ## Components
 
 ### 1. Main Component
